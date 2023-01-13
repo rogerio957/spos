@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1
+
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_high.m3u8
+#EXTINF:-2
+https://m3u9.ml/a2/hls1/hboxtreme-bk.m3u8?
+#EXTINF:-3
+https://m3u9.ml/a2/hls1/megapix-bk.m3u8?
+#EXTINF:-4
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+#EXTINF:-5
+https://connecttvapp.xyz/mgf4c18/mgf239161/9.m3u8
+#EXTINF:-6
+https://server100.online/spt1/video.m3u8?token=bb0f185ec2765f9ba691b714d146b217392add08-a7d49a0ba5585a12a7c7db84d9c44db8-1673625304-1673618104&remote=77.54.53.230
+#EXTINF:-7
+https://svsjqsdbniqb.cdnexpress59.net:8443/hls/b5r01up6xuiica.m3u8?s=pj_0KKZyPbBbHEFyrH9I0g&e=1673640049
